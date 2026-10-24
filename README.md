@@ -1,2 +1,25 @@
 # GitLab_Assignment2_PasswordChecker
-# GitLab_Assignment2_PasswordChecker
+
+Project status: Development in progress.
+
+## Team
+
+| Member | GitHub username | Feature |
+| --- | --- | --- |
+| Rania  | @rania-rahoui | Rule checks (`rules.py`) |
+| Yasmine| @Yasmine2609 | Strength score (`scoring.py`) |
+| Kamelia | @Kamelia-Majdoline | Weak pattern detection (`patterns.py`) |
+
+## Theme
+Password Checker: checks a password against basic rules, gives it a strength score, and flags weak patterns.
+
+## How to run
+
+```
+pip install -r requirements.txt
+pytest
+```
+
+## Live page
+
+GitHub Pages URL: 
