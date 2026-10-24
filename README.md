@@ -8,7 +8,7 @@ Project status: Development in progress.
 | --- | --- | --- |
 | Rania  | @rania-rahoui | Rule checks (`rules.py`) |
 | Yasmine| @Yasmine2609 | Strength score (`scoring.py`) |
-| Kamelia | @Kamelia-Majdoline | Weak pattern detection (`patterns.py`) |
+| Kamelia | @Kamelia-Magdoline | Weak pattern detection (`patterns.py`) |
 
 ## Theme
 Password Checker: checks a password against basic rules, gives it a strength score, and flags weak patterns.
