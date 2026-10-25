@@ -22,4 +22,4 @@ pytest
 
 ## Live page
 
-GitHub Pages URL: 
+GitHub Pages URL: https://rania-rahoui.github.io/GitLab_Assignment2_PasswordChecker/
