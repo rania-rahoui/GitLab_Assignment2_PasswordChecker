@@ -1,6 +1,6 @@
 # GitLab_Assignment2_PasswordChecker
 
-Project status: Development in progress.
+Project status: Password scoring completed.
 
 ## Team
 
