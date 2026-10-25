@@ -1,6 +1,6 @@
 # GitLab_Assignment2_PasswordChecker
 
-Project status: Development in progress.
+Project status: All features merged, working on GitHub Pages.
 
 ## Team
 
