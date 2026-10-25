@@ -2,25 +2,33 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Password Checker</title>
 </head>
 <body>
   <h1>Password Checker</h1>
 
   <h2>Theme</h2>
-  <p>...</p>
+  <p>Password Checker: checks a password against basic rules, gives it a strength score, and flags weak patterns.</p>
 
   <h2>Team</h2>
   <ul>
-    <li>...</li>
+    <li>Rania Rahoui (@rania-rahoui): Rule checks</li>
+    <li>Yasmine Boutchiche (@yasmine2609): Strength score</li>
+    <li>Kamelia Magdoline (@Kamelia-Magdoline): Weak pattern detection</li>
   </ul>
 
   <h2>Features</h2>
   <ul>
-    <li>...</li>
+    <li>Rule checks: length of at least 8, uppercase, lowercase, digit, special character</li>
+    <li>Strength score from 0 to 5 with a label (Weak, Medium, Strong)</li>
+    <li>Weak pattern detection: common passwords, repeated characters, sequences</li>
   </ul>
 
   <h2>How to run</h2>
-  <pre>...</pre>
+  <pre>
+pip install -r requirements.txt
+pytest
+  </pre>
 </body>
 </html>
