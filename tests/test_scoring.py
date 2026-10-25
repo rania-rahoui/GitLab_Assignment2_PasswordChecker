@@ -14,3 +14,6 @@ def test_short_password():
 def test_invalid_password():
     with pytest.raises(TypeError):
         check_strength(None)
+
+def test_weak_password():
+    assert check_strength("abc") == (1, "Weak")
