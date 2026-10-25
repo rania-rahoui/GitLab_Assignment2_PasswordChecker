@@ -1,6 +1,6 @@
 # GitLab_Assignment2_PasswordChecker
 
-Project status: Password scoring completed.
+Project status: Password scoring completed. All features merged, working on GitHub Pages.
 
 ## Team
 
